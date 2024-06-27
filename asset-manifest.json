@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/autosomal_recessive_calculator/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/autosomal_recessive_calculator/static/js/main.348e1329.chunk.js",
+    "main.js.map": "/autosomal_recessive_calculator/static/js/main.348e1329.chunk.js.map",
+    "runtime-main.js": "/autosomal_recessive_calculator/static/js/runtime-main.085f7268.js",
+    "runtime-main.js.map": "/autosomal_recessive_calculator/static/js/runtime-main.085f7268.js.map",
+    "static/js/2.bdff6ef6.chunk.js": "/autosomal_recessive_calculator/static/js/2.bdff6ef6.chunk.js",
+    "static/js/2.bdff6ef6.chunk.js.map": "/autosomal_recessive_calculator/static/js/2.bdff6ef6.chunk.js.map",
+    "index.html": "/autosomal_recessive_calculator/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/autosomal_recessive_calculator/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.bdff6ef6.chunk.js.LICENSE.txt": "/autosomal_recessive_calculator/static/js/2.bdff6ef6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.085f7268.js",
+    "static/js/2.bdff6ef6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.348e1329.chunk.js"
+  ]
+}
